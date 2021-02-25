@@ -1,3 +1,5 @@
+--06강 DML - Select 기본
+
 --부서의 모든 정보를 가져온다.
 select *
 from dept;
